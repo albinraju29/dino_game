@@ -12,11 +12,8 @@ Here’s the upgraded README for you:
 ```markdown
 # 🦖 Dino Game
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/albinraju29/dino_game?style=social)
-![Status](https://img.shields.io/badge/status-Active-brightgreen)
-
+To Play Click below
+https://albinraju29.github.io/dino_game/
 A fun, endless-runner style Dino Game built in **Python**, where you jump over obstacles to score points. Inspired by the classic Chrome offline dinosaur game!
 
 ---
