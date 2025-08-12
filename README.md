@@ -4,6 +4,10 @@ Perfect — let’s make your Dino Game README look **professional and fun** wit
 * ✅ **Gameplay screenshot or GIF** (to attract visitors)
 * ✅ **Detailed setup instructions** for your environment
 * ✅ **Credits section**
+  
+To Play, click below
+
+https://albinraju29.github.io/dino_game/
 
 Here’s the upgraded README for you:
 
@@ -12,8 +16,7 @@ Here’s the upgraded README for you:
 ```markdown
 # 🦖 Dino Game
 
-To Play Click below
-https://albinraju29.github.io/dino_game/
+
 A fun, endless-runner style Dino Game built in **Python**, where you jump over obstacles to score points. Inspired by the classic Chrome offline dinosaur game!
 
 ---
